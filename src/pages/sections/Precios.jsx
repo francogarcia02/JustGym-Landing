@@ -14,7 +14,7 @@ export default function Precios() {
             <li>✔ Acceso a todas las funciones</li>
             <li>✔ Soporte técnico incluido</li>
           </ul>
-          <a href="https://instagram.com/justgym" target="_blank" className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition">
+          <a href="https://www.instagram.com/sis_nuvanta/" target="_blank" className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition">
             Solicitar demo gratuita
           </a>
         </div>
