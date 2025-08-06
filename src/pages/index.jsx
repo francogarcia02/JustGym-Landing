@@ -8,7 +8,7 @@ import Footer from "./sections/Footer";
 export default function Home() {
     return (
         <div
-            className={`flex flex-col w-full justify-center items-center`}
+            className={`flex flex-col w-full gap-2 justify-center items-center`}
         >
           <Hero/>
           <Information/>
